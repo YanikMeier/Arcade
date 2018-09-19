@@ -1,0 +1,5 @@
+C:\Users\vmadmin\RiderProjects\Project_Arcade\Project_Arcade\bin\Debug\Project_Arcade.exe
+C:\Users\vmadmin\RiderProjects\Project_Arcade\Project_Arcade\bin\Debug\Project_Arcade.pdb
+C:\Users\vmadmin\RiderProjects\Project_Arcade\Project_Arcade\obj\Debug\Project_Arcade.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\RiderProjects\Project_Arcade\Project_Arcade\obj\Debug\Project_Arcade.exe
+C:\Users\vmadmin\RiderProjects\Project_Arcade\Project_Arcade\obj\Debug\Project_Arcade.pdb
